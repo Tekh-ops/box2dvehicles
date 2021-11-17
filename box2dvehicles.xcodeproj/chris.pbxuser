@@ -1,0 +1,411 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* box2dvehiclesAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 663}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1029}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* box2dvehicles */ = {
+		activeExec = 0;
+		executables = (
+			8309471F13E449EA00D552ED /* box2dvehicles */,
+		);
+	};
+	28EC4C5611D54ECE0027AA9F /* box2dvehiclesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 715}}";
+			sepNavSelRange = "{1175, 0}";
+			sepNavVisRange = "{100, 1287}";
+		};
+	};
+	28EC4C5711D54ECE0027AA9F /* box2dvehiclesViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2280, 5330}}";
+			sepNavSelRange = "{5475, 0}";
+			sepNavVisRange = "{4823, 914}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8309471F13E449EA00D552ED /* box2dvehicles */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* box2dvehicles */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* box2dvehicles */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 8309472C13E44A0800D552ED /* Code sense */;
+		executables = (
+			8309471F13E449EA00D552ED /* box2dvehicles */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					712,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					672,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333743514;
+			PBXWorkspaceStateSaveDate = 333743514;
+		};
+		perUserProjectItems = {
+			8317275813E482A3009715A7 /* PBXTextBookmark */ = 8317275813E482A3009715A7 /* PBXTextBookmark */;
+			8317276413E482A3009715A7 /* PlistBookmark */ = 8317276413E482A3009715A7 /* PlistBookmark */;
+			8336026C13E45E5E0012752D /* PBXTextBookmark */ = 8336026C13E45E5E0012752D /* PBXTextBookmark */;
+			8336027113E45E5E0012752D /* PBXTextBookmark */ = 8336027113E45E5E0012752D /* PBXTextBookmark */;
+			8336029B13E468270012752D /* PBXTextBookmark */ = 8336029B13E468270012752D /* PBXTextBookmark */;
+			833602B613E468750012752D /* PBXTextBookmark */ = 833602B613E468750012752D /* PBXTextBookmark */;
+			833602C813E469640012752D /* PBXTextBookmark */ = 833602C813E469640012752D /* PBXTextBookmark */;
+			833602D413E469AE0012752D /* PBXTextBookmark */ = 833602D413E469AE0012752D /* PBXTextBookmark */;
+			8336031613E46E6F0012752D /* PBXTextBookmark */ = 8336031613E46E6F0012752D /* PBXTextBookmark */;
+			8336032613E46ED10012752D /* PBXTextBookmark */ = 8336032613E46ED10012752D /* PBXTextBookmark */;
+			8336036D13E474E90012752D /* PBXTextBookmark */ = 8336036D13E474E90012752D /* PBXTextBookmark */;
+			834CCD5913E4868100CF99FE /* PlistBookmark */ = 834CCD5913E4868100CF99FE /* PlistBookmark */;
+			83C391A913E47D2A009F1E98 /* PBXTextBookmark */ = 83C391A913E47D2A009F1E98 /* PBXTextBookmark */;
+			83C391BC13E47E60009F1E98 /* PBXTextBookmark */ = 83C391BC13E47E60009F1E98 /* PBXTextBookmark */;
+			83C391C513E47E93009F1E98 /* PBXTextBookmark */ = 83C391C513E47E93009F1E98 /* PBXTextBookmark */;
+			83C391DD13E4823D009F1E98 /* PBXTextBookmark */ = 83C391DD13E4823D009F1E98 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8309472B13E44A0800D552ED /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8309471F13E449EA00D552ED /* box2dvehicles */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = box2dvehicles;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8309472B13E44A0800D552ED /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8309472C13E44A0800D552ED /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8317275813E482A3009715A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83C391E113E4823D009F1E98 /* GLES1DebugDraw.cpp */;
+		name = "GLES1DebugDraw.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1376;
+		vrLoc = 0;
+	};
+	8317276413E482A3009715A7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* box2dvehicles-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/users/chris/iPhoneBox2DSetup/project/box2dvehicles/box2dvehicles-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	833601F713E44FC90012752D /* GLES1DebugDraw.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 1664}}";
+			sepNavSelRange = "{3039, 0}";
+			sepNavVisRange = "{2215, 1158}";
+		};
+	};
+	833601F813E44FC90012752D /* GLES1DebugDraw.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 591}}";
+			sepNavSelRange = "{496, 74}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
+	8336021513E450880012752D /* b2dJson.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 1469}}";
+			sepNavSelRange = "{0, 882}";
+			sepNavVisRange = "{0, 1530}";
+		};
+	};
+	8336021613E450880012752D /* b2dJson.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 14365}}";
+			sepNavSelRange = "{17857, 0}";
+			sepNavVisRange = "{17340, 1807}";
+		};
+	};
+	8336022113E453100012752D /* VehiclesDemo.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 2067}}";
+			sepNavSelRange = "{3986, 0}";
+			sepNavVisRange = "{3157, 1120}";
+		};
+	};
+	8336022313E453130012752D /* VehiclesDemo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 1131}}";
+			sepNavSelRange = "{1798, 0}";
+			sepNavVisRange = "{1466, 998}";
+		};
+	};
+	8336024413E45B740012752D /* VehiclesDemo.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VehiclesDemo.h;
+		path = /users/chris/iPhoneBox2DSetup/project/box2dvehicles/Classes/VehiclesDemo.h;
+		sourceTree = "<absolute>";
+	};
+	8336026C13E45E5E0012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8336021513E450880012752D /* b2dJson.h */;
+		name = "b2dJson.h: 1";
+		rLen = 882;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1530;
+		vrLoc = 0;
+	};
+	8336027113E45E5E0012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "MyDebugDraw.h: No such file or directory";
+		fRef = 8336024413E45B740012752D /* VehiclesDemo.h */;
+		rLen = 1;
+		rLoc = 32;
+		rType = 1;
+	};
+	8336029513E462520012752D /* vehicles.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 247598}}";
+			sepNavSelRange = "{513741, 0}";
+			sepNavVisRange = "{484652, 1139}";
+		};
+	};
+	8336029B13E468270012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8336029513E462520012752D /* vehicles.json */;
+		name = "vehicles.json: 19085";
+		rLen = 0;
+		rLoc = 513741;
+		rType = 0;
+		vrLen = 1139;
+		vrLoc = 484652;
+	};
+	833602B613E468750012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8336021613E450880012752D /* b2dJson.mm */;
+		name = "b2dJson.mm: 494";
+		rLen = 0;
+		rLoc = 17857;
+		rType = 0;
+		vrLen = 1807;
+		vrLoc = 17340;
+	};
+	833602C813E469640012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* box2dvehiclesAppDelegate.mm */;
+		name = "box2dvehiclesAppDelegate.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 0;
+	};
+	833602D413E469AE0012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83D1645413E44EB6005D622D /* b2Draw.h */;
+		name = "b2Draw.h: 25";
+		rLen = 0;
+		rLoc = 1039;
+		rType = 0;
+		vrLen = 1682;
+		vrLoc = 0;
+	};
+	8336031613E46E6F0012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83D1646813E44EB6005D622D /* b2World.cpp */;
+		name = "b2World.cpp: 1023";
+		rLen = 0;
+		rLoc = 23932;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 23433;
+	};
+	8336032613E46ED10012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 833601F813E44FC90012752D /* GLES1DebugDraw.h */;
+		name = "GLES1DebugDraw.h: 14";
+		rLen = 74;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	8336036D13E474E90012752D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 833601F713E44FC90012752D /* GLES1DebugDraw.cpp */;
+		name = "GLES1DebugDraw.cpp: 109";
+		rLen = 0;
+		rLoc = 3039;
+		rType = 0;
+		vrLen = 1158;
+		vrLoc = 2215;
+	};
+	834CCD5913E4868100CF99FE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* box2dvehicles-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/users/chris/iPhoneBox2DSetup/project/box2dvehicles/box2dvehicles-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	83C391A913E47D2A009F1E98 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28EC4C5611D54ECE0027AA9F /* box2dvehiclesViewController.h */;
+		name = "box2dvehiclesViewController.h: 42";
+		rLen = 0;
+		rLoc = 1175;
+		rType = 0;
+		vrLen = 1287;
+		vrLoc = 100;
+	};
+	83C391BC13E47E60009F1E98 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28EC4C5711D54ECE0027AA9F /* box2dvehiclesViewController.mm */;
+		name = "box2dvehiclesViewController.mm: 209";
+		rLen = 0;
+		rLoc = 5475;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 4823;
+	};
+	83C391C513E47E93009F1E98 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8336022313E453130012752D /* VehiclesDemo.h */;
+		name = "VehiclesDemo.h: 59";
+		rLen = 0;
+		rLoc = 1798;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 1466;
+	};
+	83C391DD13E4823D009F1E98 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8336022113E453100012752D /* VehiclesDemo.cpp */;
+		name = "VehiclesDemo.cpp: 124";
+		rLen = 0;
+		rLoc = 3986;
+		rType = 0;
+		vrLen = 1120;
+		vrLoc = 3157;
+	};
+	83C391E113E4823D009F1E98 /* GLES1DebugDraw.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = GLES1DebugDraw.cpp;
+		path = /users/chris/iPhoneBox2DSetup/project/box2dvehicles/Classes/GLES1DebugDraw.cpp;
+		sourceTree = "<absolute>";
+	};
+	83D1643713E44EB6005D622D /* Box2D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {560, 910}}";
+			sepNavSelRange = "{416, 0}";
+			sepNavVisRange = "{0, 1737}";
+		};
+	};
+	83D1643913E44EB6005D622D /* b2BroadPhase.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 1456}}";
+			sepNavSelRange = "{916, 0}";
+			sepNavVisRange = "{704, 396}";
+		};
+	};
+	83D1645413E44EB6005D622D /* b2Draw.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {890, 1053}}";
+			sepNavSelRange = "{1039, 0}";
+			sepNavVisRange = "{0, 1682}";
+		};
+	};
+	83D1646813E44EB6005D622D /* b2World.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 16081}}";
+			sepNavSelRange = "{23929, 0}";
+			sepNavVisRange = "{23815, 370}";
+		};
+	};
+}
